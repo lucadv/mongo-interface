@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+/*.tgz
+/pkg
+.npmignore
+coverage.html
+results.xml
+/jsdoc
+/logs
+
+.jscsrc
+
+.jsdocrc
+
+.jshintrc
+
+Makefile
