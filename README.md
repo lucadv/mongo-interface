@@ -2,6 +2,10 @@
 
 This is meant to be an interface to mongodb native drivers for nodejs.
 
+## Install
+
+npm install mongo-interface
+
 ## Usage
 
 ```
