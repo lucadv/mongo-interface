@@ -1,6 +1,6 @@
 ## Overview
 
-This is meant to be an interface to mongodb native drivers for nodejs.
+This is meant to be an interface to mongodb native drivers for nodejs. Connects to mongo and, for each collection that you specify, offer an interface to basic mongo operations. 
 
 ## Install
 
