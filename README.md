@@ -30,6 +30,8 @@ Supported operations are:
   * find (query, callback) - callback with an array of docs
   * findOne (query, callback)
   * findOneAndUpdate (filter, update, options, callback)
+  * updateOne (filter, update, options, callback)
+  * updateMany (filter, update, options, callback)
   * insert (document, callback)
   * insertMany (docs, callback)
   * remove (query, callback)
